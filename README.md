@@ -1,4 +1,6 @@
-# Django-Travel-Website-
+# Django Travel Website
+
+### Snapshots of the application:
 
 ![image](https://user-images.githubusercontent.com/75041273/148761142-86699d94-14f5-4c4c-8f6f-3d03526b9f0f.png)
 ![image](https://user-images.githubusercontent.com/75041273/148761240-6ccdbd09-1c48-4e99-9f9e-4beaa0c429c2.png)
